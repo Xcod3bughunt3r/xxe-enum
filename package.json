@@ -4,7 +4,7 @@
   "description": "Automate brute force files using XXE with external DTD and out of band file retrieval",
   "main": "client.js",
   "dependencies": {
-    "async": "^2.6.3",
+    "async": "^2.6.4",
     "minimist": "^1.2.0"
   },
   "devDependencies": {},
